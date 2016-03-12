@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Guatape]]></title>
         <description><![CDATA[Guatape]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/guatape/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 15:25:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 15:41:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/guatape/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f2a4b92-42e9-4277-b452-2c5398e6dd1b.jpg">]]></description>
-            <link>undefinedguatape-from-the-air/index.html</link>
+            <link>https://thegrid.ai/guatape/guatape-from-the-air/index.html</link>
             <guid isPermaLink="false">3a422548-8924-46ef-bf69-f4356ed84c02</guid>
-            <pubDate>Sat, 12 Mar 2016 15:24:52 GMT</pubDate>
+            <pubDate>Sat, 12 Mar 2016 15:39:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
